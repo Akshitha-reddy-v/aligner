@@ -1,0 +1,563 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.2_1 2021.05, May 15 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/akshitha/Downloads/aksh/aligner(1)/aligner/sim
+T_opt
+!s11d cfs_algn_test_pkg /home/akshitha/Downloads/aksh/aligner(1)/aligner/sim/work 2 cfs_algn_if 1 /home/akshitha/Downloads/aksh/aligner(1)/aligner/sim/work cfs_apb_if 1 /home/akshitha/Downloads/aksh/aligner(1)/aligner/sim/work 
+!s11d cfs_algn_pkg /home/akshitha/Downloads/aksh/aligner(1)/aligner/sim/work 2 cfs_algn_if 1 /home/akshitha/Downloads/aksh/aligner(1)/aligner/sim/work cfs_md_if 1 /home/akshitha/Downloads/aksh/aligner(1)/aligner/sim/work 
+!s11d cfs_md_pkg /home/akshitha/Downloads/aksh/aligner(1)/aligner/sim/work 1 cfs_md_if 1 /home/akshitha/Downloads/aksh/aligner(1)/aligner/sim/work 
+!s11d cfs_apb_pkg /home/akshitha/Downloads/aksh/aligner(1)/aligner/sim/work 1 cfs_apb_if 1 /home/akshitha/Downloads/aksh/aligner(1)/aligner/sim/work 
+!s110 1765172077
+Vj7g>SGegCz?zAVWL[V;[G0
+04 9 4 work testbench fast 0
+=1-5414f3242af2-6936636c-b59e3-175b
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.2_1;73
+Ycfs_algn_if
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1765172074
+!i10b 1
+!s100 U0cT`6nCLUBBXgE^cPoW72
+IeaZX^Wm`i<19QmLhhJUHh3
+S1
+R0
+Z4 w1763939700
+8../tb/cfs_algn_if.sv
+F../tb/cfs_algn_if.sv
+!i122 0
+Z5 L0 10 0
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2021.2_1;73
+r1
+!s85 0
+31
+Z8 !s108 1765172074.000000
+Z9 !s107 ../tb/vseq/algn_vseq_rxfifo_full.sv|../tb/test/algn_test_rxfifo_full.sv|../tb/vseq/algn_vseq_illegal_rx.sv|../tb/test/algn_test_illegal_rx.sv|../tb/test/algn_test_legal_rx.sv|../tb/vseq/algn_vseq_legal_rx.sv|../tb/vseq/algn_vseq_rst_midseq.sv|../tb/test/algn_test_mid_reset.sv|../tb/test/cfs_algn_test_random_rx_err.sv|../tb/test/cfs_algn_test_random.sv|../tb/test/cfs_algn_test_reg_access.sv|../tb/test/cfs_algn_test_base.sv|../tb/test/cfs_algn_test_defines.sv|../tb/test/cfs_algn_test_pkg.sv|../tb/vseq/cfs_algn_virtual_sequence_rx_err.sv|../tb/vseq/cfs_algn_virtual_sequence_rx.sv|../tb/vseq/cfs_algn_virtual_sequence_reg_status.sv|../tb/vseq/cfs_algn_virtual_sequence_reg_config.sv|../tb/vseq/cfs_algn_virtual_sequence_reg_access_unmapped.sv|../tb/vseq/cfs_algn_virtual_sequence_reg_access_random.sv|../tb/vseq/cfs_algn_virtual_sequence_slow_pace.sv|../tb/vseq/cfs_algn_virtual_sequence_base.sv|../tb/cfs_algn_seq_reg_config.sv|../tb/cfs_algn_env.sv|../tb/cfs_algn_virtual_sequencer.sv|../tb/cfs_algn_scoreboard.sv|../tb/cfs_algn_reg_predictor.sv|../tb/cfs_algn_reg_access_status_info.sv|../tb/cfs_algn_coverage.sv|../tb/cfs_algn_model.sv|../tb/cfs_algn_split_info.sv|../tb/cfs_algn_clr_cnt_drop.sv|../tb/cfs_algn_env_config.sv|../tb/cfs_algn_types.sv|../tb/cfs_algn_if.sv|../tb/cfs_algn_reg_pkg.sv|../tb/md/cfs_md_if.sv|../tb/md/cfs_md_pkg.sv|../tb/apb/cfs_apb_if.sv|../tb/apb/cfs_apb_pkg.sv|../tb/uvm_ext_pkg.sv|/home/akshitha/Downloads/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh|/home/akshitha/Downloads/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh|/home/akshitha/Downloads/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh|/home/akshitha/Downloads/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh|/home/akshitha/Downloads/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh|/home/akshitha/Downloads/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh|/home/akshitha/Downloads/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh|/home/akshitha/Downloads/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh|/home/akshitha/Downloads/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh|/home/akshitha/Downloads/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh|/home/akshitha/Downloads/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh|/home/akshitha/Downloads/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh|../rtl/cfs_aligner.v|../rtl/cfs_aligner_core.v|../rtl/cfs_regs.v|../rtl/cfs_edge_detect.v|../rtl/cfs_tx_ctrl.v|../rtl/cfs_ctrl.v|../rtl/cfs_rx_ctrl.v|../rtl/cfs_synch_fifo.v|../rtl/cfs_synch.v|../tb/testbench.sv|../tb/cfs_algn_pkg.sv|../rtl/design.sv|
+Z10 !s90 -work|work|../rtl/design.sv|+incdir+../tb|+incdir+../tb/apb|+incdir+../tb/md|+incdir+../tb/test|+incdir+../tb/vseq|../tb/cfs_algn_pkg.sv|../tb/testbench.sv|
+!i113 0
+Z11 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z12 !s92 -work work +incdir+../tb +incdir+../tb/apb +incdir+../tb/md +incdir+../tb/test +incdir+../tb/vseq -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+Xcfs_algn_pkg
+Z13 !s115 cfs_md_if
+Z14 !s115 cfs_algn_if
+R2
+Z15 DXx6 mtiUvm 7 uvm_pkg 0 22 8V[`8]Q0W57le7Z>zYaAj1
+Z16 DXx4 work 11 uvm_ext_pkg 0 22 9iKXl][Fj6O>^JC7;eLFf1
+Z17 DXx4 work 11 cfs_apb_pkg 0 22 TSV?ZajHMn@gdE213:;n=3
+Z18 DXx4 work 10 cfs_md_pkg 0 22 oSTocUd0lnc=T=LW^i[BT2
+Z19 DXx4 work 16 cfs_algn_reg_pkg 0 22 KHZ5:RRM[@f<zl7h`]TV;2
+R3
+!i10b 1
+!s100 85EREhBVO1H;VSHEMSOnT1
+IIQ]zOTQeE3?UXk3@6f:hj2
+S1
+R0
+w1764824490
+8../tb/cfs_algn_pkg.sv
+F../tb/cfs_algn_pkg.sv
+F../tb/cfs_algn_types.sv
+F../tb/cfs_algn_env_config.sv
+F../tb/cfs_algn_clr_cnt_drop.sv
+F../tb/cfs_algn_split_info.sv
+F../tb/cfs_algn_model.sv
+F../tb/cfs_algn_coverage.sv
+F../tb/cfs_algn_reg_access_status_info.sv
+F../tb/cfs_algn_reg_predictor.sv
+F../tb/cfs_algn_scoreboard.sv
+F../tb/cfs_algn_virtual_sequencer.sv
+F../tb/cfs_algn_env.sv
+F../tb/cfs_algn_seq_reg_config.sv
+F../tb/vseq/cfs_algn_virtual_sequence_base.sv
+F../tb/vseq/cfs_algn_virtual_sequence_slow_pace.sv
+F../tb/vseq/cfs_algn_virtual_sequence_reg_access_random.sv
+F../tb/vseq/cfs_algn_virtual_sequence_reg_access_unmapped.sv
+F../tb/vseq/cfs_algn_virtual_sequence_reg_config.sv
+F../tb/vseq/cfs_algn_virtual_sequence_reg_status.sv
+F../tb/vseq/cfs_algn_virtual_sequence_rx.sv
+F../tb/vseq/cfs_algn_virtual_sequence_rx_err.sv
+!i122 0
+L0 19 0
+VIQ]zOTQeE3?UXk3@6f:hj2
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1
+Xcfs_algn_reg_pkg
+R2
+R15
+R3
+!i10b 1
+!s100 an;lR?_PdF9`QW8d><VJd2
+IKHZ5:RRM[@f<zl7h`]TV;2
+S1
+R0
+R4
+8../tb/cfs_algn_reg_pkg.sv
+F../tb/cfs_algn_reg_pkg.sv
+!i122 0
+L0 11 0
+VKHZ5:RRM[@f<zl7h`]TV;2
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1
+Xcfs_algn_test_pkg
+Z20 !s115 cfs_apb_if
+R14
+R2
+R15
+R16
+R17
+R18
+R19
+Z21 DXx4 work 12 cfs_algn_pkg 0 22 IQ]zOTQeE3?UXk3@6f:hj2
+R3
+!i10b 1
+!s100 <BGe0<o3g`_D@0BmXoMc]0
+I@n_@7aiMZ`1GSi8[S9j?Q2
+S1
+R0
+Z22 w1765172071
+F../tb/test/cfs_algn_test_pkg.sv
+F../tb/test/cfs_algn_test_defines.sv
+F../tb/test/cfs_algn_test_base.sv
+F../tb/test/cfs_algn_test_reg_access.sv
+F../tb/test/cfs_algn_test_random.sv
+F../tb/test/cfs_algn_test_random_rx_err.sv
+F../tb/test/algn_test_mid_reset.sv
+F../tb/vseq/algn_vseq_rst_midseq.sv
+F../tb/vseq/algn_vseq_legal_rx.sv
+F../tb/test/algn_test_legal_rx.sv
+F../tb/test/algn_test_illegal_rx.sv
+F../tb/vseq/algn_vseq_illegal_rx.sv
+F../tb/test/algn_test_rxfifo_full.sv
+F../tb/vseq/algn_vseq_rxfifo_full.sv
+!i122 0
+L0 13 0
+V@n_@7aiMZ`1GSi8[S9j?Q2
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1
+vcfs_aligner
+R2
+R3
+!i10b 1
+!s100 X1W8dbmb5??G:5D2TjenH0
+I[L1OzYjeN4C:;dFc7HPRT3
+S1
+R0
+R4
+8../rtl/cfs_aligner.v
+F../rtl/cfs_aligner.v
+!i122 0
+L0 12 77
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1
+vcfs_aligner_core
+R2
+R3
+!i10b 1
+!s100 zVOf9V_eHl7CVUZ9eLLBn2
+I>b7b4=zVBH2;M51]4IMa?0
+S1
+R0
+R4
+8../rtl/cfs_aligner_core.v
+F../rtl/cfs_aligner_core.v
+!i122 0
+L0 133 239
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1
+Ycfs_apb_if
+R2
+R3
+!i10b 1
+!s100 P[GPGV:ZiACm@SJaBnNSW2
+I4jU]Hn6nO^gOI4iF0@Fmh1
+S1
+R0
+R4
+8../tb/apb/cfs_apb_if.sv
+F../tb/apb/cfs_apb_if.sv
+!i122 0
+L0 18 0
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1
+Xcfs_apb_pkg
+R20
+R2
+R15
+R16
+R3
+!i10b 1
+!s100 n97_6OGh5h`Z[@O40`ll@1
+ITSV?ZajHMn@gdE213:;n=3
+S1
+R0
+R4
+8../tb/apb/cfs_apb_pkg.sv
+F../tb/apb/cfs_apb_pkg.sv
+!i122 0
+Z23 L0 16 0
+VTSV?ZajHMn@gdE213:;n=3
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1
+vcfs_ctrl
+R2
+R3
+!i10b 1
+!s100 bi_ei`>eiCEF:9Q3j;dO?3
+IK5LT=SefEO`NSXPg0zfPJ0
+S1
+R0
+R4
+8../rtl/cfs_ctrl.v
+F../rtl/cfs_ctrl.v
+!i122 0
+L0 12 278
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1
+vcfs_edge_detect
+R2
+R3
+!i10b 1
+!s100 :oLBamgY[e@Bnn[^<RRlh0
+Ioz1fg1bLi?Xni;L9E@>ge2
+S1
+R0
+R4
+8../rtl/cfs_edge_detect.v
+F../rtl/cfs_edge_detect.v
+!i122 0
+L0 11 22
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1
+Ycfs_md_if
+R2
+R3
+!i10b 1
+!s100 zHCzMP=b5]L4M^<L28NJH1
+I3D;OXa5WgU_>CF@LBHkNE2
+S1
+R0
+R4
+8../tb/md/cfs_md_if.sv
+F../tb/md/cfs_md_if.sv
+!i122 0
+R5
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1
+Xcfs_md_pkg
+R13
+R2
+R15
+R16
+R3
+!i10b 1
+!s100 De5f=@He06KgT:7:LcN>^1
+IoSTocUd0lnc=T=LW^i[BT2
+S1
+R0
+R22
+8../tb/md/cfs_md_pkg.sv
+F../tb/md/cfs_md_pkg.sv
+!i122 0
+R23
+VoSTocUd0lnc=T=LW^i[BT2
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1
+vcfs_regs
+R2
+R3
+!i10b 1
+!s100 ISPTIRBSBQzhEHLB4_`:Z0
+IIcY4;4c_O`HHY?m`c[]i30
+S1
+R0
+R4
+8../rtl/cfs_regs.v
+F../rtl/cfs_regs.v
+!i122 0
+L0 17 308
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1
+vcfs_rx_ctrl
+R2
+R3
+!i10b 1
+!s100 5dT3HiTZXjGjB2=B0<X^K3
+Ien]6<[V[T^jOi:U?0TfL<3
+S1
+R0
+R4
+8../rtl/cfs_rx_ctrl.v
+F../rtl/cfs_rx_ctrl.v
+!i122 0
+L0 21 88
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1
+vcfs_synch
+R2
+R3
+!i10b 1
+!s100 E7g9i^J399n6e`ZjcfQ1=3
+IJY>9oid87OzNMfm<k19bW1
+S1
+R0
+R4
+8../rtl/cfs_synch.v
+F../rtl/cfs_synch.v
+!i122 0
+L0 12 13
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1
+vcfs_synch_fifo
+R2
+R3
+!i10b 1
+!s100 ziRlaX3=g:_>XVh54`8ZT2
+IKgFDWKP8M5aZDK1NDojG62
+S1
+R0
+R4
+8../rtl/cfs_synch_fifo.v
+F../rtl/cfs_synch_fifo.v
+!i122 0
+L0 14 204
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1
+vcfs_tx_ctrl
+R2
+R3
+!i10b 1
+!s100 alWIWA>2MR`Z=glH2kek:3
+I5J1fo>VTN=_m4J3oHXDTO1
+S1
+R0
+R4
+8../rtl/cfs_tx_ctrl.v
+F../rtl/cfs_tx_ctrl.v
+!i122 0
+L0 13 34
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1
+vtestbench
+R2
+R15
+R16
+R17
+R18
+R19
+R21
+DXx4 work 17 cfs_algn_test_pkg 0 22 @n_@7aiMZ`1GSi8[S9j?Q2
+R3
+!i10b 1
+!s100 6WJ]UL89d]9EZgak5]Rlk1
+Ildj3j]mLh@GUYP<F2?1A01
+S1
+R0
+w1764830332
+8../tb/testbench.sv
+F../tb/testbench.sv
+!i122 0
+L0 10 102
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1
+Xuvm_ext_pkg
+R2
+R15
+R3
+!i10b 1
+!s100 c10G9GUQd1YChzGOddPfo2
+I9iKXl][Fj6O>^JC7;eLFf1
+S1
+R0
+w1764918291
+8../tb/uvm_ext_pkg.sv
+F../tb/uvm_ext_pkg.sv
+!i122 0
+L0 12 0
+V9iKXl][Fj6O>^JC7;eLFf1
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1
