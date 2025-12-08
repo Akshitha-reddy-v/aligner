@@ -1,0 +1,22 @@
+# Simulation / Questa / Work libraries
+sim/work/
+*/work/
+work/
+*.wlf
+*.qpf
+*.qsf
+*.rdb
+*.smsg
+*.qpg
+
+# Build / compile artifacts
+*.o
+*.log
+*.vcd
+
+# Backup files
+*~
+*.swp
+
+# DO NOT TRACK LOCAL COPIES OF RTL/TB SNAPSHOTS
+05-12-2025/
