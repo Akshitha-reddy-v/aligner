@@ -1,0 +1,2 @@
+var g_data = {"9":["work.cfs_algn_pkg",0.00,1],"14":["work.cfs_aligner_core",100.00,1],"2":["work.cfs_apb_if",100.00,1],"8":["work.cfs_apb_pkg",64.58,1],"3":["work.cfs_md_if",76.92,1],"7":["work.cfs_md_pkg",84.72,1],"17":["work.cfs_synch_fifo",100.00,1],"6":["work.uvm_ext_pkg",100.00,1]};
+processDuLinks(g_data);
